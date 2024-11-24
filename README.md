@@ -207,9 +207,9 @@ To ensure a consistent and scalable design across the AirBnB Clone project, reus
 
 
 ### **Hero Section**
-- **Description**;
+- **Description**:
     A section at the top of the home page just after the Navbar that has a beautiful image and Header text that captivates users
-- **Key Features**;
+- **Key Features**:
   - Background image
   - Header Text
 
@@ -284,6 +284,6 @@ To ensure a consistent and scalable design across the AirBnB Clone project, reus
 
 1. Clone the repository:
    ```bash
-   git clone https://{your_token}@github.com/your-username/airbnb-clone-project.git
+   git clone https://{your-token}@github.com/{my-username}/airbnb-clone-project.git
 
 

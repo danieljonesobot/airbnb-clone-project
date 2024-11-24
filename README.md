@@ -92,6 +92,102 @@ A user-friendly design is the backbone of a successful booking system because:
 
 ---
 
+
+## Project Roles and Responsibilities
+
+Successful execution of the AirBnB Clone project relies on collaboration across various roles. Each role has distinct responsibilities that contribute to the project’s overall success.
+
+### **Roles and Responsibilities**
+
+#### **Project Manager**
+- **Key Responsibilities**:
+  - Oversee the project timeline, budget, and deliverables.
+  - Facilitate communication between team members and stakeholders.
+  - Identify and mitigate risks to ensure the project stays on track.
+  - Monitor progress and provide regular status updates.
+- **Contribution to Success**:
+  The Project Manager ensures the team works cohesively, deadlines are met, and resources are allocated effectively.
+
+---
+
+#### **Frontend Developers**
+- **Key Responsibilities**:
+  - Develop the user interface (UI) using HTML, CSS, and JavaScript frameworks.
+  - Ensure responsive design for seamless experience across devices.
+  - Implement designs provided by the design team.
+  - Optimize the UI for performance and accessibility.
+- **Contribution to Success**:
+  Frontend Developers bring the visual and interactive elements of the platform to life, creating an engaging user experience.
+
+---
+
+#### **Backend Developers**
+- **Key Responsibilities**:
+  - Develop the server-side logic and APIs.
+  - Design and maintain the database schema.
+  - Implement authentication and authorization mechanisms.
+  - Ensure data security and application scalability.
+- **Contribution to Success**:
+  Backend Developers build the foundation for functionality and ensure the platform can handle user requests efficiently and securely.
+
+---
+
+#### **Designers**
+- **Key Responsibilities**:
+  - Create mockups, wireframes, and prototypes.
+  - Define the color palette, typography, and design guidelines.
+  - Ensure the interface is visually appealing and user-friendly.
+  - Collaborate with developers to implement designs accurately.
+- **Contribution to Success**:
+  Designers shape the visual identity of the platform, ensuring it is intuitive, accessible, and aesthetically pleasing.
+
+---
+
+#### **QA/Testers**
+- **Key Responsibilities**:
+  - Test the application for bugs, usability issues, and performance bottlenecks.
+  - Write and execute test cases for various scenarios.
+  - Ensure the platform meets functional and non-functional requirements.
+  - Provide detailed feedback to the development team.
+- **Contribution to Success**:
+  QA/Testers ensure the platform is reliable, robust, and meets user expectations by identifying and resolving issues early.
+
+---
+
+#### **DevOps Engineers**
+- **Key Responsibilities**:
+  - Set up and manage CI/CD pipelines.
+  - Monitor application performance and server health.
+  - Automate deployment processes and manage infrastructure.
+  - Ensure high availability and scalability of the platform.
+- **Contribution to Success**:
+  DevOps Engineers streamline the development-to-production workflow, enabling faster releases and reliable operations.
+
+---
+
+#### **Product Owner**
+- **Key Responsibilities**:
+  - Define and prioritize features in the product backlog.
+  - Act as the liaison between stakeholders and the development team.
+  - Ensure the product aligns with business goals and user needs.
+  - Approve completed features and provide feedback.
+- **Contribution to Success**:
+  The Product Owner ensures the team builds the right features at the right time, aligning with the project’s vision.
+
+---
+
+#### **Scrum Master**
+- **Key Responsibilities**:
+  - Facilitate Agile ceremonies such as daily standups, sprint planning, and retrospectives.
+  - Remove obstacles that hinder the team’s progress.
+  - Promote collaboration and adherence to Agile principles.
+  - Track sprint progress and ensure timely delivery of tasks.
+- **Contribution to Success**:
+  The Scrum Master helps maintain focus, fosters a productive environment, and ensures continuous improvement throughout the project lifecycle.
+
+
+
+
 ## Getting Started
 
 1. Clone the repository:

@@ -99,7 +99,7 @@ Successful execution of the AirBnB Clone project relies on collaboration across 
 
 ### **Roles and Responsibilities**
 
-#### **Project Manager (PM)**
+#### **Project Manager (PM) 🗂️**
 **Overview**: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
 - **Key Responsibilities**:
     - Oversee project progress and ensure milestones are met.

@@ -41,8 +41,8 @@ Creating a user-friendly and visually appealing interface is critical for the su
 
 
 ### **Color Styles**
-- **Primary Color**: #FF385C (Bright Coral)
-- **Secondary Color**: #00848C (Teal)
+- **Primary Color**:#34967C
+- **Secondary Color**:#161117
 - **Background Color**: #F7F7F7 (Light Gray)
 - **Text Color**: #484848 (Dark Gray)
 - **Accent Color**: #FFD700 (Golden)
@@ -85,8 +85,8 @@ A user-friendly design is the backbone of a successful booking system because:
 
 ## Technologies Used
 
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Python (Flask/Django)
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: Python (Flask/Django), Nodejs(Express)
 - **Database**: MySQL/PostgreSQL
 - **Version Control**: Git & GitHub
 
@@ -185,6 +185,98 @@ Successful execution of the AirBnB Clone project relies on collaboration across 
 - **Contribution to Success**:
   The Scrum Master helps maintain focus, fosters a productive environment, and ensures continuous improvement throughout the project lifecycle.
 
+
+
+## UI Component Patterns
+
+To ensure a consistent and scalable design across the AirBnB Clone project, reusable UI components will be developed. These components will simplify the implementation of complex user interfaces and maintain design consistency throughout the application.
+
+### **Planned UI Components**
+
+#### **Navbar**
+- **Description**: 
+  A responsive navigation bar that provides quick access to key sections of the platform, such as Home, Search, Login, and Profile.
+- **Key Features**:
+  - Logo and brand name display.
+  - Links to primary pages with active state indication.
+  - Dropdown menu for user account options.
+  - Search bar for quick property searches.
+
+---
+
+
+
+### **Hero Section**
+- **Description**;
+    A section at the top of the home page just after the Navbar that has a beautiful image and Header text that captivates users
+- **Key Features**;
+  - Background image
+  - Header Text
+
+---
+
+
+#### **Property Card**
+- **Description**: 
+  A card-style component used to display summarized details of a property in the listing view.
+- **Key Features**:
+  - Thumbnail image of the property.
+  - Property name, location, and price.
+  - User rating with star icons.
+  - “View Details” button for more information.
+
+---
+
+#### **Footer**
+- **Description**: 
+  A footer section displayed at the bottom of every page containing additional navigation links and platform information.
+- **Key Features**:
+  - Links to About Us, Terms of Service, Privacy Policy, and Contact.
+  - Social media icons for external links.
+  - Copyright notice and branding.
+
+---
+
+#### **Search Bar**
+- **Description**: 
+  A component that allows users to search for properties based on location, check-in/check-out dates, and number of guests.
+- **Key Features**:
+  - Input fields for each search criterion.
+  - Search button with icon.
+  - Dynamic filters for price, property type, and amenities.
+
+---
+
+#### **Modal**
+- **Description**: 
+  A pop-up dialog box used for various interactions, such as login, signup, or confirming bookings.
+- **Key Features**:
+  - Overlay background to focus on the modal content.
+  - Close button for easy dismissal.
+  - Form fields or messages relevant to the action.
+
+---
+
+#### **Button**
+- **Description**: 
+  Reusable button styles used across the platform for actions like "Search", "Book Now", or "Learn More".
+- **Key Features**:
+  - Primary, secondary, and disabled styles.
+  - Hover and focus effects.
+  - Icon support for enhanced functionality.
+
+---
+
+#### **User Review Card**
+- **Description**: 
+  A compact component to display user reviews for a property.
+- **Key Features**:
+  - Reviewer’s name and profile picture.
+  - Star-based rating.
+  - Short review text.
+  - Date of the review.
+
+---
 
 
 

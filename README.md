@@ -30,12 +30,47 @@ Creating a user-friendly and visually appealing interface is critical for the su
 - **Detailed Views**: Comprehensive property descriptions with high-quality images.
 - **Streamlined Checkout**: Quick and secure booking processes.
 
+
 ### **Page Descriptions**
 | Page                  | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | **Property Listing View** | Displays a grid or list of available properties, each with a thumbnail image, price, and a short description. Users can filter and sort listings based on preferences. |
 | **Listing Detailed View** | Provides an in-depth look at a selected property, including high-quality images, amenities, host details, location on a map, and user reviews. |
 | **Simple Checkout View**   | Guides users through the booking process with fields for guest details, payment information, and a summary of the booking. Includes a confirmation button for finalizing reservations. |
+
+
+
+### **Color Styles**
+- **Primary Color**: #FF385C (Bright Coral)
+- **Secondary Color**: #00848C (Teal)
+- **Background Color**: #F7F7F7 (Light Gray)
+- **Text Color**: #484848 (Dark Gray)
+- **Accent Color**: #FFD700 (Golden)
+
+### **Typography**
+- **Font Family**: 
+  - Primary: "Roboto", sans-serif
+  - Secondary: "Open Sans", sans-serif
+- **Font Weights**: 
+  - Regular: 400
+  - Medium: 500
+  - Bold: 700
+- **Font Sizes**:
+  - Header: 32px
+  - Subheader: 24px
+  - Body Text: 16px
+  - Small Text: 14px
+
+### **Importance of Identifying Design Properties of a Mockup Design**
+
+Identifying design properties in a mockup is essential because:
+- **Ensures Consistency**: Defining styles for colors, fonts, and layout elements maintains visual uniformity across the platform.
+- **Streamlines Development**: Developers can refer to predefined styles, reducing guesswork and ensuring accurate implementation of the design.
+- **Enhances User Experience**: A well-thought-out design with consistent properties makes the interface intuitive and visually appealing.
+- **Facilitates Collaboration**: Designers and developers can work seamlessly when a clear style guide is available.
+- **Speeds Up Iteration**: Changes to design elements can be quickly adjusted across the project when a centralized style is used.
+
+
 
 ### **Importance of a User-Friendly Design**
 
@@ -61,6 +96,6 @@ A user-friendly design is the backbone of a successful booking system because:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/airbnb-clone.git
+   git clone https://{your_token}@github.com/your-username/airbnb-clone-project.git
 
 
